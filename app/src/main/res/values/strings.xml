@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Rental Application</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="username_hint">Username</string>
+    <string name="ful_name_hint">Full Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="register_text"><u>Want to register?</u></string>
+    <string name="rent_fragment">Rent Fragment</string>
+    <string name="purchase_fragment">Purchase Fragment</string>
+    <string name="venue_fragment">Venue Fragment</string>
+</resources>
